@@ -7,7 +7,7 @@ This repository provides some results related to the paper:
 
 For bug reports, comments and questions please use the [issue tracker](https://github.com/K-RLange/zeitenwenden/issues).
 
-##Reference
+## Reference
 
 The change detection method is based on
 
@@ -15,5 +15,5 @@ The change detection method is based on
 
 Further results using this method for a different data set can be found in [the corresponding repository](https://github.com/JonasRieger/topicalchanges).
 
-##Structure
+## Structure
 The results are divided by the number of topics used for the RollingLDA object. The results are presented for a look-back-window of 4 and a mixture parameter of 0.9,...,0.95. 
